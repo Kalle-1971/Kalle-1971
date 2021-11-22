@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding Websites and Bots
 - 🌱 I’m currently learning App coding with Flutter (Dart)
 - 💞️ Friend of Cyrus Jannis 
-- 📫 How to reach me: On Discord: Kalle-1971#9054
+- 📫 How to reach me: On Discord: Kalle-1971#0001 https://discord.com/users/710951377593040919
 - 🤖 My Server: https://discord.gg/ZFmVHj2mQB
 <!---
 Kalle-1971/Kalle-1971 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
